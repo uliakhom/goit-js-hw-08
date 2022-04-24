@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "@vimeo/player": "^2.16.4",
+    "git-push": "^0.1.1",
     "lodash.throttle": "^4.1.1",
     "simplelightbox": "^2.10.3"
   }
